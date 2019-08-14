@@ -1,0 +1,2 @@
+[29-Jun-2018 05:12:02 UTC] WordPress database error Unknown column 'wpdco_' in 'field list' for query SELECT wpdco_
+[09-Jul-2018 07:30:22 UTC] PHP Parse error:  syntax error, unexpected ''' (T_CONSTANT_ENCAPSED_STRING) in /home4/trimurty/demosrvr.com/wp/damico/wp-content/themes/damico/functions.php on line 653
